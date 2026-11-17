@@ -1,0 +1,14 @@
+[
+  {
+    "id": "ord_89f4295a6aa3",
+    "participantId": "usr_13e83f866c98",
+    "type": "SELL",
+    "variantId": "VAR001",
+    "quantity": 20,
+    "remaining": 19,
+    "price": 120,
+    "description": "Fresh mango stock",
+    "status": "PARTIALLY_FILLED",
+    "createdAt": "2026-11-17T13:45:35.421Z"
+  }
+]

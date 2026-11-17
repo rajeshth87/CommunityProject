@@ -1,0 +1,56 @@
+[
+  {
+    "id": "wlt_ea596faa069d",
+    "participantId": "usr_4037ca3093e0",
+    "type": "PURCHASE",
+    "amount": -115,
+    "balance": 49885,
+    "reference": "txn_ad455e0f16c5",
+    "createdAt": "2026-11-17T14:02:34.106Z"
+  },
+  {
+    "id": "wlt_9595152428cb",
+    "participantId": "usr_13e83f866c98",
+    "type": "SALE",
+    "amount": 115,
+    "balance": 50115,
+    "reference": "txn_ad455e0f16c5",
+    "createdAt": "2026-11-17T14:02:34.106Z"
+  },
+  {
+    "id": "wlt_cc5344dd6724",
+    "participantId": "usr_4037ca3093e0",
+    "type": "PURCHASE",
+    "amount": -450,
+    "balance": 49485,
+    "reference": "txn_60bbaeda2141",
+    "createdAt": "2026-11-17T14:14:04.833Z"
+  },
+  {
+    "id": "wlt_50b77e3ba9e5",
+    "participantId": "usr_13e83f866c98",
+    "type": "SALE",
+    "amount": 450,
+    "balance": 50565,
+    "reference": "txn_60bbaeda2141",
+    "createdAt": "2026-11-17T14:14:04.833Z"
+  },
+  {
+    "id": "wlt_c90e4839e02e",
+    "participantId": "usr_13e83f866c98",
+    "type": "PURCHASE",
+    "amount": -105,
+    "balance": 50455,
+    "reference": "txn_644acb6a8c3f",
+    "createdAt": "2026-11-17T14:59:41.827Z"
+  },
+  {
+    "id": "wlt_501563d0a67e",
+    "participantId": "usr_4037ca3093e0",
+    "type": "SALE",
+    "amount": 105,
+    "balance": 49590,
+    "reference": "txn_644acb6a8c3f",
+    "createdAt": "2026-11-17T14:59:41.827Z"
+  }
+]

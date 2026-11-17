@@ -1,0 +1,79 @@
+[
+  {
+    "participantId": "usr_4037ca3093e0",
+    "variantId": "VAR001",
+    "quantity": 106,
+    "reserved": 0,
+    "averagePrice": 90.24
+  },
+  {
+    "participantId": "usr_4037ca3093e0",
+    "variantId": "VAR002",
+    "quantity": 20,
+    "reserved": 0,
+    "averagePrice": 90
+  },
+  {
+    "participantId": "usr_4037ca3093e0",
+    "variantId": "VAR004",
+    "quantity": 49,
+    "reserved": 0,
+    "averagePrice": 90
+  },
+  {
+    "participantId": "usr_4037ca3093e0",
+    "variantId": "VAR007",
+    "quantity": 30,
+    "reserved": 0,
+    "averagePrice": 90
+  },
+  {
+    "participantId": "usr_13e83f866c98",
+    "variantId": "VAR001",
+    "quantity": 94,
+    "reserved": 0,
+    "averagePrice": 90
+  },
+  {
+    "participantId": "usr_13e83f866c98",
+    "variantId": "VAR005",
+    "quantity": 20,
+    "reserved": 0,
+    "averagePrice": 90
+  },
+  {
+    "participantId": "usr_13e83f866c98",
+    "variantId": "VAR008",
+    "quantity": 25,
+    "reserved": 0,
+    "averagePrice": 90
+  },
+  {
+    "participantId": "usr_df066093ad28",
+    "variantId": "VAR003",
+    "quantity": 15,
+    "reserved": 0,
+    "averagePrice": 90
+  },
+  {
+    "participantId": "usr_df066093ad28",
+    "variantId": "VAR004",
+    "quantity": 40,
+    "reserved": 0,
+    "averagePrice": 90
+  },
+  {
+    "participantId": "usr_df066093ad28",
+    "variantId": "VAR010",
+    "quantity": 35,
+    "reserved": 0,
+    "averagePrice": 90
+  },
+  {
+    "participantId": "usr_13e83f866c98",
+    "variantId": "VAR004",
+    "quantity": 1,
+    "reserved": 0,
+    "averagePrice": 105
+  }
+]

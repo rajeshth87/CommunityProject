@@ -1,0 +1,120 @@
+[
+  {
+    "id": "off_69405ee14b2c",
+    "orderId": "ord_89f4295a6aa3",
+    "orderType": "SELL",
+    "variantId": "VAR001",
+    "fromId": "usr_4037ca3093e0",
+    "toId": "usr_13e83f866c98",
+    "quantity": 1,
+    "price": 115,
+    "status": "EXECUTED",
+    "history": [
+      {
+        "by": "usr_4037ca3093e0",
+        "quantity": 1,
+        "price": 115,
+        "action": "OFFER",
+        "at": "2026-11-17T14:01:08.352Z"
+      },
+      {
+        "by": "usr_13e83f866c98",
+        "action": "ACCEPT_AND_EXECUTE",
+        "at": "2026-11-17T14:02:34.106Z"
+      }
+    ],
+    "createdAt": "2026-11-17T14:01:08.352Z"
+  },
+  {
+    "id": "off_ba8c70c66a09",
+    "orderId": "ord_3348eb3c7a18",
+    "orderType": "BUY",
+    "variantId": "VAR004",
+    "fromId": "usr_4037ca3093e0",
+    "toId": "usr_13e83f866c98",
+    "quantity": 1,
+    "price": 100,
+    "status": "REJECTED",
+    "history": [
+      {
+        "by": "usr_13e83f866c98",
+        "quantity": 1,
+        "price": 90,
+        "action": "OFFER",
+        "at": "2026-11-17T14:07:26.064Z"
+      },
+      {
+        "by": "usr_4037ca3093e0",
+        "quantity": 1,
+        "price": 100,
+        "action": "COUNTER",
+        "at": "2026-11-17T14:09:20.953Z"
+      },
+      {
+        "by": "usr_13e83f866c98",
+        "action": "REJECT",
+        "at": "2026-11-17T14:58:05.738Z"
+      }
+    ],
+    "createdAt": "2026-11-17T14:07:26.064Z"
+  },
+  {
+    "id": "off_e2a7c42204c2",
+    "orderId": "ord_17b594ac50c8",
+    "orderType": "BUY",
+    "variantId": "VAR001",
+    "fromId": "usr_4037ca3093e0",
+    "toId": "usr_13e83f866c98",
+    "quantity": 5,
+    "price": 90,
+    "status": "EXECUTED",
+    "history": [
+      {
+        "by": "usr_13e83f866c98",
+        "quantity": 5,
+        "price": 95,
+        "action": "OFFER",
+        "at": "2026-11-17T14:13:31.545Z"
+      },
+      {
+        "by": "usr_4037ca3093e0",
+        "quantity": 5,
+        "price": 90,
+        "action": "COUNTER",
+        "at": "2026-11-17T14:13:49.130Z"
+      },
+      {
+        "by": "usr_13e83f866c98",
+        "action": "ACCEPT_AND_EXECUTE",
+        "at": "2026-11-17T14:14:04.833Z"
+      }
+    ],
+    "createdAt": "2026-11-17T14:13:31.545Z"
+  },
+  {
+    "id": "off_1431a3f6ddf7",
+    "orderId": "ord_c937462eb574",
+    "orderType": "BUY",
+    "variantId": "VAR004",
+    "fromId": "usr_4037ca3093e0",
+    "toId": "usr_13e83f866c98",
+    "quantity": 1,
+    "price": 105,
+    "status": "EXECUTED",
+    "history": [
+      {
+        "by": "usr_4037ca3093e0",
+        "quantity": 1,
+        "price": 105,
+        "action": "OFFER",
+        "at": "2026-11-17T14:59:27.475Z"
+      },
+      {
+        "by": "usr_13e83f866c98",
+        "action": "ACCEPT_AND_EXECUTE",
+        "at": "2026-11-17T14:59:41.827Z"
+      }
+    ],
+    "createdAt": "2026-11-17T14:59:27.475Z"
+  }
+]
