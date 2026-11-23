@@ -1,0 +1,20 @@
+[
+  {
+    "id": "usr_4037ca3093e0",
+    "username": "trader1",
+    "passwordHash": "$2a$10$9w7hor0yToDyBKhBa8qNaePI2BjEX5F5dSV3OVF2v18JPSUkRm0j6",
+    "createdAt": "2026-11-17T13:45:35.317Z"
+  },
+  {
+    "id": "usr_13e83f866c98",
+    "username": "trader2",
+    "passwordHash": "$2a$10$wvgnLNLBaON1YP3kKqxh4uQqt3in40Vqms.bW2myozvDOH9YpU6/O",
+    "createdAt": "2026-11-17T13:45:35.368Z"
+  },
+  {
+    "id": "usr_df066093ad28",
+    "username": "trader3",
+    "passwordHash": "$2a$10$CnTeZtjxTwccdNbQ3uQ2ruzW.dF6z.Qy.JYRAltGbVKRGYZfOlcMW",
+    "createdAt": "2026-11-17T13:45:35.418Z"
+  }
+]

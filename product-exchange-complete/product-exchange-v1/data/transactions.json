@@ -1,0 +1,38 @@
+[
+  {
+    "id": "txn_ad455e0f16c5",
+    "offerId": "off_69405ee14b2c",
+    "orderId": "off_69405ee14b2c",
+    "buyerId": "usr_4037ca3093e0",
+    "sellerId": "usr_13e83f866c98",
+    "variantId": "VAR001",
+    "quantity": 1,
+    "price": 115,
+    "amount": 115,
+    "createdAt": "2026-11-17T14:02:34.106Z"
+  },
+  {
+    "id": "txn_60bbaeda2141",
+    "offerId": "off_e2a7c42204c2",
+    "orderId": "off_e2a7c42204c2",
+    "buyerId": "usr_4037ca3093e0",
+    "sellerId": "usr_13e83f866c98",
+    "variantId": "VAR001",
+    "quantity": 5,
+    "price": 90,
+    "amount": 450,
+    "createdAt": "2026-11-17T14:14:04.833Z"
+  },
+  {
+    "id": "txn_644acb6a8c3f",
+    "offerId": "off_1431a3f6ddf7",
+    "orderId": "off_1431a3f6ddf7",
+    "buyerId": "usr_13e83f866c98",
+    "sellerId": "usr_4037ca3093e0",
+    "variantId": "VAR004",
+    "quantity": 1,
+    "price": 105,
+    "amount": 105,
+    "createdAt": "2026-11-17T14:59:41.827Z"
+  }
+]

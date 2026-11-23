@@ -1,0 +1,98 @@
+[
+  {
+    "id": "ntf_81367d39305d",
+    "participantId": "usr_13e83f866c98",
+    "message": "New offer received for order ord_89f4295a6aa3.",
+    "type": "offer",
+    "read": false,
+    "createdAt": "2026-11-17T14:01:08.352Z"
+  },
+  {
+    "id": "ntf_dfecef8d0696",
+    "participantId": "usr_4037ca3093e0",
+    "message": "Trade completed: 1 units for ₹115.",
+    "type": "success",
+    "read": false,
+    "createdAt": "2026-11-17T14:02:34.106Z"
+  },
+  {
+    "id": "ntf_247b4feb304c",
+    "participantId": "usr_13e83f866c98",
+    "message": "Trade completed: 1 units for ₹115.",
+    "type": "success",
+    "read": false,
+    "createdAt": "2026-11-17T14:02:34.106Z"
+  },
+  {
+    "id": "ntf_68505a1a2660",
+    "participantId": "usr_4037ca3093e0",
+    "message": "New offer received for order ord_3348eb3c7a18.",
+    "type": "offer",
+    "read": false,
+    "createdAt": "2026-11-17T14:07:26.064Z"
+  },
+  {
+    "id": "ntf_5503acda631a",
+    "participantId": "usr_13e83f866c98",
+    "message": "You received a counteroffer.",
+    "type": "offer",
+    "read": false,
+    "createdAt": "2026-11-17T14:09:20.953Z"
+  },
+  {
+    "id": "ntf_814a920b7983",
+    "participantId": "usr_4037ca3093e0",
+    "message": "New offer received for order ord_17b594ac50c8.",
+    "type": "offer",
+    "read": false,
+    "createdAt": "2026-11-17T14:13:31.545Z"
+  },
+  {
+    "id": "ntf_b1a9f8b27ce6",
+    "participantId": "usr_13e83f866c98",
+    "message": "You received a counteroffer.",
+    "type": "offer",
+    "read": false,
+    "createdAt": "2026-11-17T14:13:49.130Z"
+  },
+  {
+    "id": "ntf_eed23afe0570",
+    "participantId": "usr_4037ca3093e0",
+    "message": "Trade completed: 5 units for ₹450.",
+    "type": "success",
+    "read": false,
+    "createdAt": "2026-11-17T14:14:04.833Z"
+  },
+  {
+    "id": "ntf_72be7fa912b2",
+    "participantId": "usr_13e83f866c98",
+    "message": "Trade completed: 5 units for ₹450.",
+    "type": "success",
+    "read": false,
+    "createdAt": "2026-11-17T14:14:04.833Z"
+  },
+  {
+    "id": "ntf_eb7ebf29a934",
+    "participantId": "usr_13e83f866c98",
+    "message": "New offer received for order ord_c937462eb574.",
+    "type": "offer",
+    "read": false,
+    "createdAt": "2026-11-17T14:59:27.475Z"
+  },
+  {
+    "id": "ntf_f85f2f7b6887",
+    "participantId": "usr_13e83f866c98",
+    "message": "Trade completed: 1 units for ₹105.",
+    "type": "success",
+    "read": false,
+    "createdAt": "2026-11-17T14:59:41.827Z"
+  },
+  {
+    "id": "ntf_93bb550b21af",
+    "participantId": "usr_4037ca3093e0",
+    "message": "Trade completed: 1 units for ₹105.",
+    "type": "success",
+    "read": false,
+    "createdAt": "2026-11-17T14:59:41.827Z"
+  }
+]

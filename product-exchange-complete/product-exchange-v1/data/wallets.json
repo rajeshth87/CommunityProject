@@ -1,0 +1,23 @@
+[
+  {
+    "participantId": "usr_4037ca3093e0",
+    "balance": 49590,
+    "reserved": 600,
+    "totalPurchases": 565,
+    "totalSales": 105
+  },
+  {
+    "participantId": "usr_13e83f866c98",
+    "balance": 50455,
+    "reserved": 900,
+    "totalPurchases": 105,
+    "totalSales": 565
+  },
+  {
+    "participantId": "usr_df066093ad28",
+    "balance": 50000,
+    "reserved": 0,
+    "totalPurchases": 0,
+    "totalSales": 0
+  }
+]

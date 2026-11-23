@@ -1,0 +1,57 @@
+[
+  {
+    "id": "VAR001",
+    "productId": "PROD001",
+    "name": "Mango 1 KG"
+  },
+  {
+    "id": "VAR002",
+    "productId": "PROD001",
+    "name": "Mango 3 KG"
+  },
+  {
+    "id": "VAR003",
+    "productId": "PROD001",
+    "name": "Mango 5 KG"
+  },
+  {
+    "id": "VAR004",
+    "productId": "PROD002",
+    "name": "Apple 1 KG"
+  },
+  {
+    "id": "VAR005",
+    "productId": "PROD002",
+    "name": "Apple 3 KG"
+  },
+  {
+    "id": "VAR006",
+    "productId": "PROD002",
+    "name": "Apple 5 KG"
+  },
+  {
+    "id": "VAR007",
+    "productId": "PROD003",
+    "name": "Banana 1 Dozen"
+  },
+  {
+    "id": "VAR008",
+    "productId": "PROD003",
+    "name": "Banana 2 Dozen"
+  },
+  {
+    "id": "VAR009",
+    "productId": "PROD003",
+    "name": "Banana 5 Dozen"
+  },
+  {
+    "id": "VAR010",
+    "productId": "PROD004",
+    "name": "Orange 1 KG"
+  },
+  {
+    "id": "VAR011",
+    "productId": "PROD004",
+    "name": "Orange 3 KG"
+  }
+]
