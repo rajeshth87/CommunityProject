@@ -1,0 +1,82 @@
+<svg class="light" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 743.1 270" width="743.1" height="270" id="me2b506__root" data-diagram-type="ascii">
+  <style data-mercat-style="universal">.mercat text{font-family:'Google Sans',Roboto,Arial,sans-serif;fill:var(--m-text);dominant-baseline:central}.mercat .m-node .m-shape{fill:var(--m-node-fill);stroke:var(--m-node-stroke);stroke-width:1.5px}.mercat .m-edge .m-path{fill:none;stroke:var(--m-line);stroke-width:1.5px}.mercat .m-note .m-shape{fill:var(--m-note-fill);stroke:var(--m-note-stroke);stroke-width:1px}.mercat .m-note .m-label{fill:var(--m-note-text)}.mercat .t-label{font-size:13px;font-weight:500}</style>
+  <style data-mercat-style="theme-light">#me2b506__root{--m-bg:#ffffff;--m-text:#1f1f1f;--m-line:#545454;--m-node-fill:#f8f9fa;--m-node-stroke:#747775;--m-note-fill:#fef9e7;--m-note-stroke:#f39c12;--m-note-text:#1f1f1f}</style>
+  <style data-mercat-style="theme-dark">#me2b506__root.dark{--m-bg:#1f1f1f;--m-text:#e3e3e3;--m-line:#bfbfbf;--m-node-fill:#2d2e30;--m-node-stroke:#8e918f;--m-note-fill:#69550d;--m-note-stroke:#f39c12;--m-note-text:#e3e3e3}</style>
+  <style data-mercat-style="type">#me2b506__root .rect-pill{fill:var(--m-bg);stroke:var(--m-node-stroke);stroke-width:1.5px}#me2b506__root .label-text{fill:var(--m-text);font-size:13px;font-weight:500;white-space:pre}#me2b506__root .arrow-line,#me2b506__root .bus-line{fill:none;stroke:var(--m-line);stroke-width:1.5px;stroke-linecap:round;stroke-linejoin:round}#me2b506__root .annotation-text{fill:var(--m-text);font-size:12px;font-weight:500;white-space:pre}</style>
+  <style data-mercat-style="diagram">#me2b506__root text{font-family:Google Sans Mono, Roboto Mono, monospace}</style>
+  <g class="mercat mercat-ascii">
+    <defs>
+      <marker id="me2b506__mk-arrow" refX="9.45" refY="3.4" markerWidth="10.8" markerHeight="6.8" markerUnits="userSpaceOnUse" orient="auto-start-reverse">
+        <path d="M 0 0 L 10.8 3.4 L 0 6.8 Z" class="m-marker" fill="var(--m-line)" stroke="none"/>
+      </marker>
+    </defs>
+    <g class="m-node shape inner" id="me2b506__node__n0" data-role="step">
+      <rect x="15" y="15" width="234" height="20" rx="3" ry="3" class="m-shape rect-pill"/>
+      <text x="132" y="25" class="m-label t-label label-text" text-anchor="middle">React / Next.js Frontend</text>
+    </g>
+    <g class="m-node shape inner" id="me2b506__node__n1" data-role="step">
+      <rect x="117" y="59" width="140.5" height="20" rx="3" ry="3" class="m-shape rect-pill"/>
+      <text x="187.25" y="69" class="m-label t-label label-text" text-anchor="middle">Supabase Auth</text>
+    </g>
+    <g class="m-node shape inner" id="me2b506__node__n2" data-role="step">
+      <rect x="117" y="103" width="183" height="20" rx="3" ry="3" class="m-shape rect-pill"/>
+      <text x="208.5" y="113" class="m-label t-label label-text" text-anchor="middle">Supabase PostgREST</text>
+    </g>
+    <g class="m-node shape inner" id="me2b506__node__n3" data-role="step">
+      <rect x="117" y="169" width="174.5" height="20" rx="3" ry="3" class="m-shape rect-pill"/>
+      <text x="204.25" y="179" class="m-label t-label label-text" text-anchor="middle">Supabase Realtime</text>
+    </g>
+    <g class="m-node shape inner" id="me2b506__node__n4" data-role="step">
+      <rect x="117" y="213" width="217" height="20" rx="3" ry="3" class="m-shape rect-pill"/>
+      <text x="225.5" y="223" class="m-label t-label label-text" text-anchor="middle">Postgres RPC Functions</text>
+    </g>
+    <g class="m-edge" id="me2b506__edge__pt__n1__0" data-role="connector">
+      <line x1="76.75" y1="69" x2="115.65" y2="69" class="m-path arrow-line" marker-end="url(#me2b506__mk-arrow)"/>
+    </g>
+    <g class="m-edge" id="me2b506__edge__n1__a0__0" data-role="connector">
+      <line x1="257.5" y1="69" x2="351.65" y2="69" class="m-path arrow-line" marker-end="url(#me2b506__mk-arrow)"/>
+    </g>
+    <g class="m-edge" id="me2b506__edge__pt__n2__0" data-role="connector">
+      <line x1="76.75" y1="113" x2="115.65" y2="113" class="m-path arrow-line" marker-end="url(#me2b506__mk-arrow)"/>
+    </g>
+    <g class="m-edge" id="me2b506__edge__n2__a1__0" data-role="connector">
+      <line x1="300" y1="113" x2="351.65" y2="113" class="m-path arrow-line" marker-end="url(#me2b506__mk-arrow)"/>
+    </g>
+    <g class="m-edge" id="me2b506__edge__pt__n3__0" data-role="connector">
+      <line x1="76.75" y1="179" x2="115.65" y2="179" class="m-path arrow-line" marker-end="url(#me2b506__mk-arrow)"/>
+    </g>
+    <g class="m-edge" id="me2b506__edge__n3__a3__0" data-role="connector">
+      <line x1="291.5" y1="179" x2="351.65" y2="179" class="m-path arrow-line" marker-end="url(#me2b506__mk-arrow)"/>
+    </g>
+    <g class="m-edge" id="me2b506__edge__pt__n4__0" data-role="connector">
+      <line x1="76.75" y1="223" x2="115.65" y2="223" class="m-path arrow-line" marker-end="url(#me2b506__mk-arrow)"/>
+    </g>
+    <g class="m-edge" id="me2b506__edge__n4__a4__0" data-role="connector">
+      <line x1="334" y1="223" x2="351.65" y2="223" class="m-path arrow-line" marker-end="url(#me2b506__mk-arrow)"/>
+    </g>
+    <g class="m-edge" id="me2b506__edge__n0__pt__0" data-role="connector">
+      <line x1="76.75" y1="35" x2="76.75" y2="223" class="m-path bus-line"/>
+    </g>
+    <g class="m-node m-note" id="me2b506__note__a0" data-role="annotation">
+      <text x="361.5" y="69" class="m-label t-label annotation-text" text-anchor="start">Registration, Login, JWT Sessions</text>
+    </g>
+    <g class="m-node m-note" id="me2b506__note__a1" data-role="annotation">
+      <text x="361.5" y="113" class="m-label t-label annotation-text" text-anchor="start">Read Products, Variants, Order Book, History</text>
+    </g>
+    <g class="m-node m-note" id="me2b506__note__a2" data-role="annotation">
+      <text x="123.5" y="135" class="m-label t-label annotation-text" text-anchor="start">(Protected by RLS)</text>
+    </g>
+    <g class="m-node m-note" id="me2b506__note__a3" data-role="annotation">
+      <text x="361.5" y="179" class="m-label t-label annotation-text" text-anchor="start">Live updates for Buy/Sell Orders &amp; Negotiations</text>
+    </g>
+    <g class="m-node m-note" id="me2b506__note__a4" data-role="annotation">
+      <text x="361.5" y="223" class="m-label t-label annotation-text" text-anchor="start">Atomic Trade Execution &amp; Wallet Transfers</text>
+    </g>
+    <g class="m-node m-note" id="me2b506__note__a5" data-role="annotation">
+      <text x="123.5" y="245" class="m-label t-label annotation-text" text-anchor="start">(PL/pgSQL Transactions)</text>
+    </g>
+    <g class="m-node m-note" id="me2b506__note__a6" data-role="annotation">
+      <text x="387" y="245" class="m-label t-label annotation-text" text-anchor="start">(Swappable Payment Adapter Layer)</text>
+    </g>
+  </g>
+</svg>
